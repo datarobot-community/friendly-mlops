@@ -19,10 +19,9 @@ The notebooks included in this repo are best run on Google Colab. Either use the
 ## Repository Contents
 
 This repo contains
-* Colab - Brief Tour of DRUM
 * Colab - Friendly MLOps
-* data - folder containing data used in the Friendly MLOPs notebook
-* models - folder containing variable models trained on [10k diabetes dataset](./data/readmissions_train.csv)
+* data - folder containing data used in the Friendly MLOPs notebook]
+* models - folder containing various models trained on [10k diabetes dataset](./data/readmissions_train.csv)
 
 ## Setup/Installation
 
